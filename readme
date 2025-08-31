@@ -1,1 +1,50 @@
-xd
+# Domótica — Casa Automática
+
+Este projeto tem como objetivo criar uma solução de automação residencial, proporcionando controle inteligente e remoto de dispositivos em uma casa automatizada. A arquitetura do sistema foi desenvolvida pensando em escalabilidade, segurança e facilidade de uso, integrando tecnologias modernas tanto no backend quanto na infraestrutura de dados.
+
+## Descrição do Projeto
+
+A **Casa Automática** permite o gerenciamento de dispositivos, agendamento de tarefas, monitoramento de em tempo real, oferecendo mais conforto, economia e segurança para os usuários.
+
+### Principais Componentes
+
+- **Backend:** Desenvolvido em Python utilizando o framework Django, responsável por toda a lógica de negócio, autenticação, controle de dispositivos e comunicação com o frontend e o banco de dados.
+- **Hospedagem do Backend:** O backend está hospedado na plataforma Render, garantindo alta disponibilidade, fácil escalabilidade e deploys simplificados.
+- **Banco de Dados:** Todas as informações são armazenadas de forma segura em um banco de dados PostgreSQL, gerenciado na plataforma Supabase, que fornece robustez, backups automáticos e APIs modernas.
+
+## Tecnologias Utilizadas
+
+- **Python / Django**: Backend robusto e seguro para manipulação dos dados e regras de negócio.
+- **Render**: Hospedagem do backend com CI/CD e deploy automático.
+- **PostgreSQL (Supabase)**: Banco de dados relacional moderno, fácil de escalar e manter.
+
+## Funcionalidades
+
+- Controle remoto de dispositivos residenciais
+- Monitoramento de estados
+- Agendamento de automações e tarefas
+- Autenticação e autorização de usuários
+
+## Estrutura do Projeto
+
+```
+(domótica)
+├── backend/           # Código-fonte do backend Django
+├── docs/              # Documentação e wireframes
+├── scripts/           # Scripts e utilitários
+└── README.md          # Este arquivo
+```
+
+---
+
+## Referências
+
+- **Repositório do Backend:**  
+  > [(https://github.com/ReisvitoR/backend-casa-iot)]
+
+- **Repositório do Frontend):**  
+  > [@iglesio]
+
+---
+
+Sinta-se livre para contribuir, sugerir melhorias ou relatar problemas através das issues!
