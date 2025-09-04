@@ -46,6 +46,6 @@ A **Casa Automática** permite o gerenciamento de dispositivos, agendamento de t
   > [https://github.com/iglesiojunior/Domotica-Casa-inteligente]
 
 - **Repositório da Documentação):**  
-  > [@lucasFarias]
+  > [Documentação Domótica](https://github.com/ReisvitoR/Domotica/blob/main/Dom%C3%B3tica%20-%20Documenta%C3%A7%C3%A3o.pdf)
 
 ---
