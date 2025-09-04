@@ -43,7 +43,7 @@ A **Casa Automática** permite o gerenciamento de dispositivos, agendamento de t
   > [https://github.com/ReisvitoR/backend-casa-iot]
 
 - **Repositório do Frontend):**  
-  > [@iglesio]
+  > [https://github.com/iglesiojunior/Domotica-Casa-inteligente]
 
 - **Repositório da Documentação):**  
   > [@lucasFarias]
